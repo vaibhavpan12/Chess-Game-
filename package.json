@@ -1,0 +1,21 @@
+{
+  "name": "chess.com",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chess.com": "file:",
+    "chess.js": "^1.0.0-beta.8",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "socket": "^0.14.27",
+    "socket.io": "^4.8.1",
+    "stack": "^0.1.0"
+  },
+  "keywords": [],
+  "description": ""
+}
